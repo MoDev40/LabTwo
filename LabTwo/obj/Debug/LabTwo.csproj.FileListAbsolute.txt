@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\LabTwo\LabTwo\bin\Debug\LabTwo.exe.config
+C:\Users\hp\source\repos\LabTwo\LabTwo\bin\Debug\LabTwo.exe
+C:\Users\hp\source\repos\LabTwo\LabTwo\bin\Debug\LabTwo.pdb
+C:\Users\hp\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.Form1.resources
+C:\Users\hp\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.Properties.Resources.resources
+C:\Users\hp\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.exe
+C:\Users\hp\source\repos\LabTwo\LabTwo\obj\Debug\LabTwo.pdb
